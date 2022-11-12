@@ -9,4 +9,4 @@ my solutions are mainly in c++.
     2022:
       Round F: rank 4122
       Round G: rank 2178
-      round H: rank ....
+      round H: rank 1300
