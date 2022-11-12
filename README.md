@@ -4,7 +4,7 @@ My solutions during the google kickstart competitive programming rounds.
 
 my solutions are mainly in c++.
 
-## My Historical scores:
+## My Ranks:
 
     2022:
       Round F: rank 4122
